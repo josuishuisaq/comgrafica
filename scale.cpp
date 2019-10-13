@@ -51,7 +51,7 @@ void display() {
 int main(int argc, char** argv) {
 	
 	glutInit(&argc, argv); 
-	glutCreateWindow("Traslacion"); 
+	glutCreateWindow("Scale"); 
 	glutInitWindowSize(640, 480); 
 	glutInitWindowPosition(50, 50); 
 	initGL();
